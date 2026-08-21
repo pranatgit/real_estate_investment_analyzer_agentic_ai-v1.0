@@ -1,0 +1,78 @@
+{
+  "property_type": "single_family",
+  "bedrooms": 3,
+  "bathrooms": 2.0,
+  "comparable_properties": [
+    {
+      "price": 242000,
+      "square_footage": 1710
+    },
+    {
+      "price": 238000,
+      "square_footage": 1650
+    },
+    {
+      "price": 245000,
+      "square_footage": 1740
+    }
+  ],
+  "school_rating": "excellent",
+  "crime_rating": "safe",
+  "walkability_score": 71,
+  "transit_score": 52,
+  "amenities": [
+    "parks",
+    "grocery",
+    "restaurants",
+    "gym"
+  ],
+  "commute_time_minutes": 20,
+  "overall_condition": "good",
+  "component_conditions": {
+    "roof": "good",
+    "hvac": "excellent",
+    "foundation": "good",
+    "plumbing": "good",
+    "electrical": "good"
+  },
+  "recent_updates": [
+    "kitchen 2022",
+    "HVAC 2023"
+  ],
+  "known_issues": [],
+  "historical_prices": [
+    {
+      "year": 2021,
+      "median_price": 198000
+    },
+    {
+      "year": 2022,
+      "median_price": 212000
+    },
+    {
+      "year": 2023,
+      "median_price": 224000
+    },
+    {
+      "year": 2024,
+      "median_price": 235000
+    }
+  ],
+  "avg_days_on_market": 26,
+  "current_inventory": 85,
+  "price_reductions": 10.0,
+  "estimated_rent": 2600,
+  "down_payment_percent": 20,
+  "interest_rate": 7.0,
+  "property_tax_annual": 2800,
+  "insurance_annual": 1200,
+  "hoa_monthly": 0,
+  "maintenance_annual": 1800,
+  "address": "1420 Chestnut Grove",
+  "city": "Indianapolis",
+  "state": "IN",
+  "zip_code": "46220",
+  "square_footage": 1680,
+  "year_built": 2012,
+  "listing_price": 235000
+}
