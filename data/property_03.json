@@ -1,0 +1,64 @@
+{
+  "property_type": "single_family",
+  "bedrooms": 3,
+  "bathrooms": 1.0,
+  "comparable_properties": [
+    {
+      "price": 135000,
+      "square_footage": 1300
+    },
+    {
+      "price": 128000,
+      "square_footage": 1210
+    }
+  ],
+  "school_rating": "below_average",
+  "crime_rating": "concerning",
+  "walkability_score": 48,
+  "transit_score": 40,
+  "amenities": [
+    "grocery"
+  ],
+  "commute_time_minutes": 28,
+  "overall_condition": "poor",
+  "component_conditions": {
+    "roof": "poor",
+    "hvac": "poor",
+    "foundation": "fair",
+    "plumbing": "poor",
+    "electrical": "fair"
+  },
+  "recent_updates": [],
+  "known_issues": [
+    "roof leak",
+    "knob-and-tube wiring",
+    "basement moisture"
+  ],
+  "historical_prices": [
+    {
+      "year": 2021,
+      "median_price": 112000
+    },
+    {
+      "year": 2024,
+      "median_price": 118000
+    }
+  ],
+  "avg_days_on_market": 78,
+  "current_inventory": 210,
+  "price_reductions": 34.0,
+  "estimated_rent": 1150,
+  "down_payment_percent": 20,
+  "interest_rate": 7.0,
+  "property_tax_annual": 2400,
+  "insurance_annual": 1100,
+  "hoa_monthly": 0,
+  "maintenance_annual": 4500,
+  "address": "14 Birch Lane",
+  "city": "Cleveland",
+  "state": "OH",
+  "zip_code": "44109",
+  "square_footage": 1240,
+  "year_built": 1948,
+  "listing_price": 118000
+}

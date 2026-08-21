@@ -1,0 +1,76 @@
+{
+  "property_type": "single_family",
+  "bedrooms": 3,
+  "bathrooms": 2.5,
+  "comparable_properties": [
+    {
+      "price": 316000,
+      "square_footage": 1900
+    },
+    {
+      "price": 328000,
+      "square_footage": 2010
+    },
+    {
+      "price": 322000,
+      "square_footage": 1955
+    }
+  ],
+  "school_rating": "great",
+  "crime_rating": "safe",
+  "walkability_score": 62,
+  "transit_score": 48,
+  "amenities": [
+    "parks",
+    "grocery",
+    "schools",
+    "restaurants"
+  ],
+  "commute_time_minutes": 24,
+  "overall_condition": "good",
+  "component_conditions": {
+    "roof": "good",
+    "hvac": "good",
+    "foundation": "good",
+    "plumbing": "excellent"
+  },
+  "recent_updates": [
+    "water heater 2023"
+  ],
+  "known_issues": [],
+  "historical_prices": [
+    {
+      "year": 2021,
+      "median_price": 320000
+    },
+    {
+      "year": 2022,
+      "median_price": 341000
+    },
+    {
+      "year": 2023,
+      "median_price": 358000
+    },
+    {
+      "year": 2024,
+      "median_price": 371000
+    }
+  ],
+  "avg_days_on_market": 33,
+  "current_inventory": 95,
+  "price_reductions": 13.0,
+  "estimated_rent": 2700,
+  "down_payment_percent": 20,
+  "interest_rate": 7.0,
+  "property_tax_annual": 3000,
+  "insurance_annual": 1250,
+  "hoa_monthly": 0,
+  "maintenance_annual": 2000,
+  "address": "76 Chestnut Court",
+  "city": "Raleigh",
+  "state": "NC",
+  "zip_code": "27607",
+  "square_footage": 1960,
+  "year_built": 2013,
+  "listing_price": 320000
+}

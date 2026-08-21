@@ -1,0 +1,65 @@
+{
+  "property_type": "single_family",
+  "bedrooms": 4,
+  "bathrooms": 3.0,
+  "comparable_properties": [
+    {
+      "price": 418000,
+      "square_footage": 2250
+    },
+    {
+      "price": 425000,
+      "square_footage": 2310
+    },
+    {
+      "price": 421000,
+      "square_footage": 2280
+    }
+  ],
+  "school_rating": "good",
+  "crime_rating": "safe",
+  "walkability_score": 42,
+  "transit_score": 30,
+  "amenities": [
+    "parks",
+    "schools"
+  ],
+  "commute_time_minutes": 35,
+  "overall_condition": "excellent",
+  "component_conditions": {
+    "roof": "excellent",
+    "hvac": "excellent",
+    "foundation": "excellent"
+  },
+  "recent_updates": [
+    "full remodel 2023"
+  ],
+  "known_issues": [],
+  "historical_prices": [
+    {
+      "year": 2021,
+      "median_price": 480000
+    },
+    {
+      "year": 2024,
+      "median_price": 525000
+    }
+  ],
+  "avg_days_on_market": 62,
+  "current_inventory": 180,
+  "price_reductions": 28.0,
+  "estimated_rent": 3750,
+  "down_payment_percent": 20,
+  "interest_rate": 7.0,
+  "property_tax_annual": 4200,
+  "insurance_annual": 1500,
+  "hoa_monthly": 0,
+  "maintenance_annual": 2400,
+  "address": "88 Sunset Ridge",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip_code": "85018",
+  "square_footage": 2300,
+  "year_built": 2016,
+  "listing_price": 480000
+}

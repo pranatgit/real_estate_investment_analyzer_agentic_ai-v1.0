@@ -1,0 +1,64 @@
+{
+  "property_type": "condo",
+  "bedrooms": 2,
+  "bathrooms": 2.0,
+  "comparable_properties": [
+    {
+      "price": 378000,
+      "square_footage": 1080
+    },
+    {
+      "price": 392000,
+      "square_footage": 1130
+    }
+  ],
+  "school_rating": "good",
+  "crime_rating": "moderate",
+  "walkability_score": 94,
+  "transit_score": 88,
+  "amenities": [
+    "transit",
+    "restaurants",
+    "grocery",
+    "gym",
+    "parks"
+  ],
+  "commute_time_minutes": 15,
+  "overall_condition": "good",
+  "component_conditions": {
+    "hvac": "good",
+    "plumbing": "good",
+    "electrical": "good"
+  },
+  "recent_updates": [
+    "bathrooms 2022"
+  ],
+  "known_issues": [],
+  "historical_prices": [
+    {
+      "year": 2021,
+      "median_price": 360000
+    },
+    {
+      "year": 2024,
+      "median_price": 384000
+    }
+  ],
+  "avg_days_on_market": 52,
+  "current_inventory": 160,
+  "price_reductions": 22.0,
+  "estimated_rent": 2600,
+  "down_payment_percent": 20,
+  "interest_rate": 7.0,
+  "property_tax_annual": 6800,
+  "insurance_annual": 900,
+  "hoa_monthly": 850,
+  "maintenance_annual": 1200,
+  "address": "900 Lakeshore Drive Unit 12B",
+  "city": "Chicago",
+  "state": "IL",
+  "zip_code": "60611",
+  "square_footage": 1100,
+  "year_built": 2001,
+  "listing_price": 385000
+}

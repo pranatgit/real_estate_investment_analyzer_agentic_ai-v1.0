@@ -1,0 +1,49 @@
+{
+  "property_type": "single_family",
+  "bedrooms": 4,
+  "bathrooms": 2.0,
+  "comparable_properties": [],
+  "school_rating": "average",
+  "crime_rating": "safe",
+  "walkability_score": 12,
+  "transit_score": 0,
+  "amenities": [],
+  "commute_time_minutes": 55,
+  "overall_condition": "fair",
+  "component_conditions": {
+    "roof": "fair",
+    "hvac": "fair",
+    "foundation": "good"
+  },
+  "recent_updates": [],
+  "known_issues": [
+    "septic needs inspection"
+  ],
+  "historical_prices": [
+    {
+      "year": 2021,
+      "median_price": 182000
+    },
+    {
+      "year": 2024,
+      "median_price": 189000
+    }
+  ],
+  "avg_days_on_market": 140,
+  "current_inventory": 25,
+  "price_reductions": 30.0,
+  "estimated_rent": 1300,
+  "down_payment_percent": 20,
+  "interest_rate": 7.0,
+  "property_tax_annual": 2200,
+  "insurance_annual": 1400,
+  "hoa_monthly": 0,
+  "maintenance_annual": 2800,
+  "address": "4482 County Road 19",
+  "city": "Pratt",
+  "state": "KS",
+  "zip_code": "67124",
+  "square_footage": 2050,
+  "year_built": 1985,
+  "listing_price": 189000
+}

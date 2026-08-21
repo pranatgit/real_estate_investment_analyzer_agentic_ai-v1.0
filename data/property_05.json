@@ -1,0 +1,67 @@
+{
+  "property_type": "single_family",
+  "bedrooms": 3,
+  "bathrooms": 2.0,
+  "comparable_properties": [
+    {
+      "price": 505000,
+      "square_footage": 1690
+    },
+    {
+      "price": 515000,
+      "square_footage": 1740
+    }
+  ],
+  "school_rating": "great",
+  "crime_rating": "very_safe",
+  "walkability_score": 55,
+  "transit_score": 35,
+  "amenities": [
+    "parks",
+    "trails"
+  ],
+  "commute_time_minutes": 25,
+  "overall_condition": "excellent",
+  "component_conditions": {
+    "roof": "excellent",
+    "hvac": "excellent",
+    "foundation": "excellent"
+  },
+  "recent_updates": [],
+  "known_issues": [],
+  "historical_prices": [
+    {
+      "year": 2021,
+      "median_price": 560000
+    },
+    {
+      "year": 2022,
+      "median_price": 572000
+    },
+    {
+      "year": 2023,
+      "median_price": 541000
+    },
+    {
+      "year": 2024,
+      "median_price": 518000
+    }
+  ],
+  "avg_days_on_market": 71,
+  "current_inventory": 240,
+  "price_reductions": 41.0,
+  "estimated_rent": 2450,
+  "down_payment_percent": 20,
+  "interest_rate": 7.0,
+  "property_tax_annual": 4200,
+  "insurance_annual": 1300,
+  "hoa_monthly": 0,
+  "maintenance_annual": 1800,
+  "address": "507 Harbor View",
+  "city": "Boise",
+  "state": "ID",
+  "zip_code": "83702",
+  "square_footage": 1720,
+  "year_built": 2019,
+  "listing_price": 520000
+}
